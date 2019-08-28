@@ -18,5 +18,5 @@ this recieves the data from Duue board and pushes it to teensy board
 Test code with base hand positions
 8.  sketch_apr09a
 Test code with basic hand postions 
-9.  Armcode.txt
+9.  Armcode.ino
 was the original code, not necessary with current application to robot.
